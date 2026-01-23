@@ -1,0 +1,106 @@
+# 🏎️ F1 Analytics Database Project
+
+A structured **Formula 1 analytics database** designed to store, analyze, and visualize race, driver, team, and performance data. This project is ideal for **SQL practice, analytics dashboards, and backend integration**.
+
+---
+
+## 📌 Project Objectives
+
+* Model real-world Formula 1 data using a **relational database**
+* Perform **race analytics** (points, lap times, pit stops, tyre strategies)
+* Enable **driver & team standings dashboards**
+* Serve as a backend-ready database for web or BI tools
+
+---
+
+## 🗂️ Project Structure
+
+```
+f1-analytics/
+│
+├── database/
+│   ├── schema.sql      # Tables, indexes, views
+│   ├── seed.sql        # Sample data inserts
+│   ├── queries.sql     # Analytics queries
+│
+├── docs/
+│   ├── db_design.md    # Database design explanation
+│   ├── ERD.png         # ER diagram (optional)
+│
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 🧱 Database Highlights
+
+* **Teams & Drivers** – championships, wins, podiums
+* **Races & Circuits** – season-based race tracking
+* **Lap Times** – per-lap performance analysis
+* **Pit Stops** – tyre compound & duration insights
+* **Tyre Stints** – strategy-level data
+* **Qualifying Results** – Q1/Q2/Q3 performance
+* **Views** for driver & team standings
+
+---
+
+## 📊 Key Analytics Supported
+
+* Driver standings by total points
+* Team championship standings
+* Fastest laps per driver
+* Average pit stop duration
+* Tyre compound usage trends
+* Season-wise performance dashboards
+
+---
+
+## 🚀 How to Use
+
+1. Create the database and schema
+
+   ```sql
+   source database/schema.sql;
+   ```
+
+2. Insert sample data
+
+   ```sql
+   source database/seed.sql;
+   ```
+
+3. Run analytics queries
+
+   ```sql
+   source database/queries.sql;
+   ```
+
+---
+
+## 🛠️ Tech Stack
+
+* **Database:** MySQL
+* **Design:** Relational schema (3NF)
+* **Use Cases:** SQL analytics, dashboards, backend APIs
+
+---
+
+## 🌱 Future Enhancements
+
+* Add season-wise points calculation
+* Integrate with Django REST API
+* Power BI / Tableau dashboards
+* Real-time race data ingestion
+* Advanced SQL (CTEs, window functions)
+
+---
+
+## 👤 Author
+
+**Anurup Dasari**
+Aspiring backend & data-focused developer with an interest in real-world system design and analytics.
+
+---
+
+⭐ If you like this project, consider starring the repo!
