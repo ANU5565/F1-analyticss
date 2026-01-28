@@ -64,7 +64,8 @@ f1-analytics/
 
 ## 📊 Dashboard Preview
 
-![F1 Analytics Dashboard](assets/dashboard.png)
+![F1 Analytics Dashboard](assets/dashboard.jpeg)
+
 
 
 ## 🚀 How to Use
@@ -115,6 +116,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
