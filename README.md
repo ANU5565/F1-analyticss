@@ -41,6 +41,16 @@ f1-analytics/
 
 ---
 
+## What I Learned
+- Designing a relational database using MySQL
+- Writing analytical SQL queries with joins and aggregations
+- Connecting MySQL with Python
+- Performing data analysis using Pandas
+- Visualizing data with Matplotlib
+- Building an interactive dashboard using Streamlit
+
+
+
 ## 📊 Key Analytics Supported
 
 * Driver standings by total points
@@ -100,6 +110,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
