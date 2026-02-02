@@ -69,28 +69,28 @@ f1-analytics/
 1. Create the database and schema
 
    ```sql
-   source database/schema.sql;
+    source database/schema.sql;
    ```
 
 2. Insert sample data
 
    ```sql
-   source database/seed.sql;
+    source database/seed.sql;
    ```
 
 3. Run analytics queries
 
    ```sql
-   source database/queries.sql;
+    source database/queries.sql;
    ```
 4. Connect database with Python
     ```  Update credentials in
-    db_connect.py
+     python/db_connect.py
     ```
 
 5. Run the dashboard
     ``` Launch Streamlit dashboard from
-    dashboard.py
+     python/dashboard.py
     ```
 
 ---
@@ -122,6 +122,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
