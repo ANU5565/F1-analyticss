@@ -37,3 +37,5 @@ selected_driver = st.selectbox(
 st.write(
     standings_df[standings_df["driver_name"] == selected_driver]
 )
+
+#some more data will be added soon 
