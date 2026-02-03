@@ -7,3 +7,4 @@ def get_connection():
         password="Anuroop@999",
         database="f1_analytics"
     )
+
