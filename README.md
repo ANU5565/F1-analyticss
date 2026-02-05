@@ -116,12 +116,13 @@ f1-analytics/
 
 ## 👤 Author
 
-**ANUROOP DASARI**
+**ANUROOP**
 Aspiring backend & data-focused developer with an interest in real-world system design and analytics.
 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
