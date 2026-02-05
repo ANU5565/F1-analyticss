@@ -117,11 +117,12 @@ f1-analytics/
 ## 👤 Author
 
 **ANUROOP**
-Aspiring backend & data-focused developer with an interest in real-world system design and analytics.
+<p>Aspiring backend & data-focused developer with an interest in real-world system design and analytics.</p>  
 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
