@@ -41,7 +41,7 @@ f1-analytics/
 
 ---
 
-## What I Learned
+## What I Learned..
 - Designing a relational database using MySQL
 - Writing analytical SQL queries with joins and aggregations
 - Connecting MySQL with Python
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
